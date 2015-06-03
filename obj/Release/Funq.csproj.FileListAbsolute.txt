@@ -1,0 +1,4 @@
+C:\Development\Funq\Funq\bin\Release\Funq.dll
+C:\Development\Funq\Funq\bin\Release\Funq.pdb
+C:\Development\Funq\Funq\obj\Release\Funq.dll
+C:\Development\Funq\Funq\obj\Release\Funq.pdb

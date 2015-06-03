@@ -1,0 +1,5 @@
+C:\Development\Funq\Funq\obj\Debug\Funq.csprojResolveAssemblyReference.cache
+C:\Development\Funq\Funq\bin\Debug\Funq.dll
+C:\Development\Funq\Funq\bin\Debug\Funq.pdb
+C:\Development\Funq\Funq\obj\Debug\Funq.dll
+C:\Development\Funq\Funq\obj\Debug\Funq.pdb
